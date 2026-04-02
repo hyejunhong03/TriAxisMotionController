@@ -37,7 +37,7 @@ TCP/IP 소켓 통신 기반의 3축(X/Y/Z) 모터 제어 패널 — C# Windows F
 ## 프로젝트 구조
 
 ```
-project_sharp/
+MotionControl/
 ├── AxisController.cs     # TCP 연결·명령 전송·텔레메트리 폴링 담당
 ├── Form1.cs              # UI 이벤트 처리
 ├── Form1.Designer.cs     # 자동 생성 UI 레이아웃
