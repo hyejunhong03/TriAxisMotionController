@@ -2,7 +2,7 @@ using System;
 using System.Windows.Forms;
 using System.Threading.Tasks;
 
-namespace project_sharp
+namespace MotionControl
 {
     public partial class Form1 : Form
     {

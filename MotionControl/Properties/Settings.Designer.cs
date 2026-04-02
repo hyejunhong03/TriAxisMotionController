@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace project_sharp.Properties
+namespace MotionControl.Properties
 {
 
 

@@ -1,4 +1,4 @@
-﻿namespace project_sharp
+﻿namespace MotionControl
 {
     partial class Form1
     {

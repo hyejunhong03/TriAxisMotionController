@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
-namespace project_sharp
+namespace MotionControl
 {
     internal static class Program
     {

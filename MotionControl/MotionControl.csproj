@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D7DF331A-F320-4F7B-8CCD-6FF3C346564D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>project_sharp</RootNamespace>
-    <AssemblyName>project_sharp</AssemblyName>
+    <RootNamespace>MotionControl</RootNamespace>
+    <AssemblyName>MotionControl</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
